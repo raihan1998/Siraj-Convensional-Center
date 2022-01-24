@@ -1,0 +1,30 @@
+.our_package{
+    color: #0A0826;
+    /* font-weight: 600; */
+
+}
+.card_heading{
+    color: #231D4F;
+    font-weight: 700;
+}
+.button{
+    font-weight: 700;
+    color: #3F87F5;
+    background-color: #fef5fa;
+}
+.button:hover{
+    /* font-size: 18px; */
+    font-weight: 700;
+    color: #3F87F5;
+    /* letter-spacing: 0.7px; */
+}
+.card-paragraph{
+    color: #848199;
+}
+.fa-check-circle{
+    color: #5243C2;
+    /* background: rgba(82, 67, 194, 0.103693); */
+}
+.fa-check-circle span{
+    color: #848199;
+}
